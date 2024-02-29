@@ -14,13 +14,6 @@ Run the following command in your terminal:
 
 <sub>pip install cryptography</sub>
 
-## Usage Instructions
-### Setting Up
-
-    1. Ensure Python and pip are installed on your system.
-    2. Install the cryptography library using the pip command provided above.
-    3. Save the script provided in the previous messages as a .py file, for example, encrypt_decrypt_tool.py.
-
 ## Running the Tool
 
 To run the tool, navigate to the directory containing the script using your terminal or command prompt, and then execute the script with Python:
