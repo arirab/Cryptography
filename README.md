@@ -24,7 +24,7 @@ Upon running the script, you will be prompted with the following options:
 
 <sub>Do you want to (E)ncrypt or (D)ecrypt a file?</sub>
 
-    Enter E to encrypt a file. You will then be asked to provide the path to the file you wish to encrypt. After encryption, the encrypted file will be saved in the same directory with an .enc extension, and the encryption key will be displayed. Important: Save this key securely, as you will need it for decryption.
+    Enter E to encrypt a file. You will then be asked to provide the path to the file you wish to encrypt. After encryption, the encrypted file will be saved in the same directory with an .enc extension, and the encryption key will be saved in the same directory. Important: Save this key securely, as you will need it for decryption.
 
     Enter D to decrypt a file. You will need to provide the path to the encrypted file and the hexadecimal representation of the encryption key. After decryption, the decrypted file will be saved in the same directory, replacing the encrypted one.
 
