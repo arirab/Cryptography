@@ -5,7 +5,7 @@ This tool provides a simple solution for encrypting and decrypting files using t
 
 ## Dependencies
 
-This script relies on Python's cryptography library for performing cryptographic operations. Ensure you have Python installed on your system (Python 3.6 or newer is recommended).
+This script relies on Python's cryptography library for performing cryptographic operations. Ensure you have Python installed on your system (Python 3.8 or newer is recommended).
 
 ### Installing Dependencies
 
@@ -18,7 +18,7 @@ Run the following command in your terminal:
 
 To run the tool, navigate to the directory containing the script using your terminal or command prompt, and then execute the script with Python:
 
-<sub>python encrypt_decrypt_tool.py</sub>
+<sub>python3 FileEncryptionDecryption.py</sub>
 
 Upon running the script, you will be prompted with the following options:
 
